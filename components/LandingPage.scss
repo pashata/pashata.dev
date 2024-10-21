@@ -1,0 +1,17 @@
+.landing-page {
+  background-color: #0e0e0e;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__image-wrap {
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+  &__image {
+    max-width: 400px;
+  }
+}

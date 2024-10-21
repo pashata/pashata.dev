@@ -1,6 +1,6 @@
+<script lang="ts" setup>
+  import './app.scss';
+</script>
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <LandingPage />
 </template>
